@@ -39,6 +39,6 @@ Generate high-quality, coherent paragraphs of text using the pre-trained GPT-2 m
 ## Clone the Repository
 
 ```bash
-git clone https://github.com/VEERAKARTHICK235/gpt2-text-generator.git
+git clone https://github.com/VEERAKARTHICK235/GBT2-Text-Generator.git
 cd gpt2-text-generator
 
